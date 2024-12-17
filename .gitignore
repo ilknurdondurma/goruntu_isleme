@@ -1,0 +1,6 @@
+
+*.exe
+x64/Debug/uygulama.pdb
+/uygulama/uygulama/x64
+/.vs/uygulama
+/uygulama/x64/Debug
